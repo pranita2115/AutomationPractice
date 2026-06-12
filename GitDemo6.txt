@@ -1,1 +1,2 @@
-Git Demo 6
+Git Demo 6 
+Update file and checking
