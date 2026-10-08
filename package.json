@@ -1,0 +1,23 @@
+{
+  "name": "automationpractice",
+  "version": "1.0.0",
+  "description": "Automation Practice",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranita2115/AutomationPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pranita2115/AutomationPractice/issues"
+  },
+  "homepage": "https://github.com/pranita2115/AutomationPractice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.4"
+  }
+}

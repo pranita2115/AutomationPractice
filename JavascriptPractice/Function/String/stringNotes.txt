@@ -1,0 +1,20 @@
+1. What is a String?
+
+A String is a sequence of characters enclosed inside:
+
+Single quotes ' '
+Double quotes " "
+Backticks ` `
+
+A string can contain:
+
+Letters
+Numbers
+Spaces
+Symbols
+Emojis
+
+e.g:
+let name = "Pranita";
+let city = 'Hannover';
+let sentence = `I am learning JavaScript`;
